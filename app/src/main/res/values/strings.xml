@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ticketingCustomView</string>
+    <string name="text_view_finish">Finish</string>
 </resources>
